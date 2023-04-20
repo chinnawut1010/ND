@@ -22,7 +22,7 @@ public class ND {
 
 
     public static Connection connectDB() {
-        String db_name = "ndclinic";
+        String db_name = "ndclinic";///Ti
         String user ="root";
         String pwd ="";
         String hostName = "localhost:3306";
