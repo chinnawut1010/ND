@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package nd;///Bird
+package nd;///Bird  tim
 
 import java.awt.Frame;
 import java.sql.Connection;
